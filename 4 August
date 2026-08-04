@@ -81,26 +81,38 @@ Group schools - institutional schools - traditional schools
 ICP 1 - [Rev. Fr. Denni Thomas] 
 Core point: weak in areas besides acaddemics     
 GAF outreach message: "Welcome to the Forum."
+Victim 
+Product Market Fit 
 
 ICP 2 - [Ms. Tessy Ignatius] 
 Core point - bring the global to the local, lacking school awareness besides the obvious such as academics and inclusive education, does not plan ahead with vision 
 GAF outreach message: "The Forum welcomes [school name] to think about it's educational standing. 
+Victim 
+Product Market Fit 
 
 ICP 3 - [Rev Fr. Manoj k Mathew] 
 Core point - meaningful impact - understands that parents, teachers, management, everyone will be saying only good things about their own school.
 GAF outreach message: "Global Academic Forum would love to profile your school's standing. This is a meaningful investment in your impact. Your stakeholders will only have good things to say about your school - parents, teachers, and management. An institutional profile by the interview with the Council Of Distinction, will result in coverage across 7 dimensions of a school shaping education itself. This is for a fee of 500 GBP. We have already compiled observations - please find attached google doc. Deliverables from this engagement include a profile (institutional page on the Forum's website - Web Of Schools) and a digital campus certification."
+Victim -  cutting past the positive PR presented by school management - Attendance loss: Nearly 6% to 10% of students skip school or miss days entirely -  parental aggression  - Prevalence: Global data indicates roughly 1 in 3 children experience bullying. - Impact: Bullied students face a 2.5 times higher risk of suicidal thoughts, lower academic test scores, and higher rates of school absenteeism or dropouts. - Frequency: Roughly 33% to 34% of teachers report facing verbal or aggressive pressure from students' parents. - Impact: High rates of teacher burnout, strained communication, and a toxic school social climate. 
+Product Market Fit - 
 
-ICP 4 - [Mr. Roy K N] 
+ICP 4 - Insider
 Core point - believers in framework of academic excellence - seeing students everyday, seeing our atmosphere - need third-party for strengths and weaknesses.
 GAF outreach message: "Every school stands for something. However, you are everyday immersed in your atmosphere and students and campus. A third-party allows for a point of view. Global Academic Forum believes #EverySchoolStandsForSomething and [school's name] standing is worth taking notice. Framework of academic excellence is how the Forum offers a bastioning perspective. Welcome. Let's step back on an institutional profiling experience. #InvestInYourLegacy." 
+Victim -  According to a landmark UNESCO School Climate Report, positive school environments are directly correlated with higher student attentiveness and a significant boost in standardized test scores. an invisible gap often exists between what administrators see daily and what students actually experience. such as intense academic anxiety, social isolation, or peer exclusion—can severely undermine student well-being and long-term academic success.   
+Product Market Fit - The one leadership believes it has. The one students, parents and teachers actually experience. Campus Certification becomes an independent institutional perspective. a lens you cannot access from inside the institution. Campus Certification reveals who they already are. School leaders regularly ask - Are we improving? Are we living our values? Does our culture match our mission? Are parents experiencing what we believe we're delivering? What will our school be remembered for? Campus Certification answers those questions.
 
-ICP 5 - [Jithin] 
+ICP 5 - Unexposed 
 Core point - schools not exposed to different criteria that used internationally, schools that are not exposed to the world
 GAF outreach message: "[School's name] is trusted and creating local impact. Global Academic Forum invites the leadership team to take the standard you have set to international benchmarking as per global standing. [School name], see your school under the light of the Framework Of Academic Excellence."
+Victim - Its reference point is: neighbouring schools, local inspectors, national curriculum, local expectations. Missing Data in Isolated Regions: 20% of low- and middle-income countries do not collect data on school violence, keeping isolated institutions blind to international benchmarks. Ignored Categories: International or localized surveys miss up to traditional or targeted segments, with most low-capacity regions failing to log data on violence against disabled or LGBTQ+ students. Corporal Punishment: Past-year prevalence of physical punishment in schools exceeds 60% in specific developing regions (such as parts of South-East Asia and the Eastern Mediterranean). Vulnerable Groups: Students with disabilities or special education needs face up to 3.9 times higher risk of direct peer victimization compared to their peers.
+Product Market Fit - The Framework for Academic Excellence helps schools see themselves through an international educational lens. For many schools, their leadership, wellbeing, innovation, future skills, teaching, global citizenship, institutional identity. Schools preparing for: Cambridge IB COBIS CIS BSO NEASC are already thinking internationally. Campus Certification becomes the first step.
 
-ICP 6 - [Rev Fr. Babu Michael OIC] 
+ICP 6 - Missionary 
 Core point - schools with a mission that are not yet giving the quality education, and better service to the society
 GAF outreach message: "We admire [School names]'s dedicated mission. The Forum takes with deep responsibility of advancing educational standing. At an investment of 500 GBP, [school name]'s mission and impact will be profiled to be legibly understood and trusted by families, in your community and across the world. This is also an opportunity to consider in case your school is looking to get accredited by a different board. Let's embark on the [school name]'s path to vision."
+Victim - The Accountability Deficit: Approximately 60% of these struggling institutions lack robust external oversight or standardized student assessment frameworks, which masks their academic underperformance under the guise of "charitable or community service."  Mission Drift: Operational focus frequently shifts from academic excellence and societal impact to basic institutional survival or compliance with complex bureaucratic regulations.
+Product Market Fit - Campus Certification helps mission-driven schools transform their mission into an independently recognised educational identity. It provides: Independent Institutional Profile. GAF Campus Certification. Evidence mapped to the Framework for Academic Excellence. Global educational recognition. A credible narrative for parents, donors, partners, and future accreditation journeys
 
 Run AI pilot - 
 Prototype testimonial as ICP profile include school fields, channels, platform-AI prompts used.
@@ -112,3 +124,27 @@ Context: pulled from the daily notes file 3-August in the repo — observation f
 
 NEED PMF DEFINITION 
 NEED SUB ICP ADDRESSALS TO THESE SCHOOLS
+
+10:15 AM IST
+PFM 
+Schools victim to 
+Misleading Metrics: 
+Independent rankings can misinform families 
+by suggesting that low-scoring 
+or lower-income schools offer no academic upside.
+
+GPT PROMPT FOR SURFACING PFM SCHOOLS
+THIS IS GLOBAL ACADEMIC FORUM, [INSERT FRAMEWORK OF ACADEMIC EXCELLENCE].
+[GPT TURN]
+YOU  KNOW GLOBAL ACADMEIC FORUM YES? (For it to recall it's publically available knowledge on our product)
+[GPT TURN]
+(If accurate, continue)
+Schools from developing countries please. 
+FROM UK to the rest of the world is really important. 
+schools from developing countries please, that would benefit from tangible roi with a campus certification from GlobaL Academic Forum
+FROM UK to the rest of the world is really important
+
+Please keep #EverySchoolStandsForSomething.
+ 
+Conduct a comprehensive global search to identify 20 schools (K–12) that bastion the Global Academic Forum (GAF) Framework for Academic Excellence.  
+The objective is not to identify schools with the highest examination results or rankings, but rather schools that demonstrate outstanding practice across the seven pillars of the GAF Framework and could serve as [INSERT ICP opportunity].
