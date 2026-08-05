@@ -303,8 +303,301 @@ Why do transformations fail after strong planning?
 
 Email. | LinkedIn DM - linkedin/aghathaboustin | | WhatsApp - +917795028890
 
-9:15 AM - Pause 
+9:15 AM IST. - Pause 
 
 Continue with sales outreach 
 
+9:41 AM IST.
 
+ICP Insider 
+Sales Personalised Email 
+20 INSIDER SCHOOLS 
+
+For readability. Lots of whitespacing and compact. Big font size. Very clear. Difficult to miss. 
+EXPERIENCE BLOCKS FORMATTING ONLY - NO CHANGING CONTENT
+BLOCK 1 - ATTENTION 
+BLOCK 2 - KEEP READING 
+BLOCK 3 - VALUE 
+BLOCK 4 - ASPIRATION VALUE
+BLOCK 5 - SPARK
+BLOCK 6 - INFORM 
+BLOCK 7 - CHOICE
+
+10:20 AM IST. 
+
+ RATE
+
+FIXED EMAIL.
+
+**SUBJECT LINE**  Recognising Insider School Through the Framework of Academic Excellence 
+
+**PREVIEW TEXT** An opportunity to be profiled by Global Academic Forum
+
+━━━━━━━━━━━━━━━━━━━━
+
+**Dear Insider School,**
+
+━━━━━━━━━━━━━━━━━━━━
+
+The Global Academic Forum believes that **Every School Stands For Something.**
+
+The standing of Insider School is worthy of recognition.
+
+━━━━━━━━━━━━━━━━━━━━
+
+**WHY STAND FOR INSIDER SCHOOL?**
+
+With a parent community of more than 1,000 families and a steadfast commitment to providing a safe educational environment, Insider School fosters an outstanding educational experience for both its immediate and wider community.
+
+━━━━━━━━━━━━━━━━━━━━
+
+**FRAMEWORK OF ACADEMIC EXCELLENCE**
+
+Insider School is distinguished by the unique character and educational ethos it has cultivated since its establishment.
+
+Yet, over time, there are occasions when what a school's leadership believes may not be fully reflected in the everyday experience of its community.
+
+•
+
+Does our culture truly reflect our mission?
+
+•
+
+Are parents and students experiencing the educational values we aspire to deliver?
+
+•
+
+And, most importantly,
+
+**WHAT WILL OUR SCHOOL BE REMEMBERED FOR?**
+
+•
+
+Through the Framework of Academic Excellence, the Global Academic Forum has recognised Insider School's standing and the values it represents.
+
+━━━━━━━━━━━━━━━━━━━━
+
+**[INSERT PERSONALISED PARAGRAPH OF APPROXIMATELY 50 WORDS THAT GIVES CONCRETE MEANING TO THE SCHOOL'S DISTINCTIVE QUALITIES.]**
+
+━━━━━━━━━━━━━━━━━━━━
+
+The Global Academic Forum is pleased to extend an invitation for Insider School to participate in an Institutional Profile, comprising a professionally curated profile listing together with a Digital Campus Certification.
+
+━━━━━━━━━━━━━━━━━━━━
+
+This engagement recognises the qualities that distinguish Insider School beyond conventional rankings, providing meaningful answers to these important questions for your school, your families, and the wider public.
+
+━━━━━━━━━━━━━━━━━━━━
+
+**BECOME PART OF THE GLOBAL COMMUNITY.**
+
+**Invest in Your Legacy.**
+
+━━━━━━━━━━━━━━━━━━━━
+
+We respect Insider School's choice on this opportunity with Global Academic Forum. 
+Still, we look forward to your acknowledgement of interest and starting the next step on a meaningful journey together with Insider School. 
+
+MUST BE DONE BY 11 AM IST. 
+
+10:30 AM IST. 
+
+EMAIL 
+
+COMMAND - INJECT. RULE. Sanitize & Apply Fallback for missing field. Render. Locked Email.
+
+FIELDS TIER 1 Field Variable School Name {{school_name}} Principal Name {{principal_name}} Principal Title {{principal_title}} City {{city}} Country {{country}} School Type {{school_type}} Curriculum {{curriculum}} Year Established {{year_established}} TIER 2 — Institutional Snapshot Used in WHY STAND FOR {{school_name}} Field Variable Student Population {{student_population}} Parent Community {{parent_community}} Teacher Count {{teacher_count}} Campus Size {{campus_size}} Age Range {{age_range}} Boarding / Day {{school_model}} TIER 3 — Framework Alignment (Most Important) These are not facts. These are the evidence that explains WHY GAF NOTICED THEM Variables for campus certification {{innovation_example}} {{technology_integration}} {{innovation_programme}} {{future_learning}} {{teaching_strength}} {{academic_programme}} {{curriculum_strength}} {{pedagogical_strength}} {{wellbeing_programme}} {{pastoral_care}} {{safeguarding_strength}} {{student_support}} {{student_leadership}} {{leadership_programme}} {{service_learning}} {{prefect_system}} {{critical_thinking}} {{creativity}} {{collaboration}} {{communication}} {{digital_literacy}} {{international_programme}} {{exchange_programme}} {{community_service}} {{global_partnerships}} {{intercultural_learning}} {{mission}} {{vision}} {{core_values}} {{school_ethos}} {{institutional_identity}} {{inspection_rating}} {{accreditation}} {{award}} {{ranking}} {{recognition}} {{parent_reputation}} {{community_reputation}} {{graduate_outcomes}} {{alumni_success}} {{public_perception}} WHY GAF NOTICED THEM {{framework_alignment}} {{gaf_observation}} {{institutional_alignment}} {{noticed_strength}} {{profile_reason}} {{school_name}} demonstrates a clear commitment to {{framework_alignment}} through {{evidence_1}}, {{evidence_2}} and {{evidence_3}}. Together these reflect an educational culture that aligns closely with the Framework of Academic Excellence and illustrates the distinctive qualities your leadership has cultivated within the school community.
+
+# **SUBJECT LINE**
+
+Recognising **{{school_name}}** Through the Framework of Academic Excellence
+
+# **PREVIEW TEXT**
+
+An opportunity for **{{school_name}}** to be profiled by the Global Academic Forum.
+
+━━━━━━━━━━━━━━━━━━━━
+
+**Dear {{principal_title}} {{principal_name}},**
+
+*(or Dear {{school_name}}, if principal details are unavailable.)*
+
+━━━━━━━━━━━━━━━━━━━━
+
+ Global Academic Forum believes that **Every School Stands For Something.**
+
+The standing of **{{school_name}}** is worthy of recognition.
+
+━━━━━━━━━━━━━━━━━━━━
+
+## **WHY STAND FOR {{school_name}}?**
+
+With a community of **{{parent_community}}**, serving **{{student_population}}** learners through **{{teacher_count}}** educators, **{{school_name}}** has established itself as a respected **{{school_type}}** in **{{city}}, {{country}}**. Guided by **{{curriculum}}**, and since **{{year_established}}**, your institution has fostered an educational experience that positively serves both its immediate and wider community.
+
+━━━━━━━━━━━━━━━━━━━━
+
+## **FRAMEWORK OF ACADEMIC EXCELLENCE**
+
+Every school develops a distinctive identity over time.
+
+At **{{school_name}}**, that identity is shaped by **{{mission}}**, strengthened through **{{vision}}**, reflected in **{{core_values}}**, and experienced through **{{school_ethos}}**.
+
+Yet, over time, there are occasions when what a school's leadership believes may not be fully reflected in the everyday experience of its community.
+
+•
+
+Does our culture truly reflect our mission?
+
+•
+
+Are parents, students and staff experiencing the educational values we aspire to deliver?
+
+•
+
+And, most importantly,
+
+**WHAT WILL {{school_name}} BE REMEMBERED FOR?**
+
+•
+
+Having observed **{{gaf_observation}}**, together with your demonstrated commitment to **{{framework_alignment}}**, the Global Academic Forum believes **{{school_name}}** reflects many of the qualities embodied within the Framework of Academic Excellence.
+
+━━━━━━━━━━━━━━━━━━━━
+
+## **WHY GAF NOTICED {{school_name}}**
+
+{{school_name}} demonstrates a clear commitment to **{{framework_alignment}}** through **{{evidence_1}}**, **{{evidence_2}}**, and **{{evidence_3}}**.
+
+This commitment is further reflected through:
+
+• **Innovation:** {{innovation_example}}, {{technology_integration}}, {{innovation_programme}}, {{future_learning}}
+
+• **Learning & Teaching:** {{teaching_strength}}, {{academic_programme}}, {{curriculum_strength}}, {{pedagogical_strength}}
+
+• **Student Well-being:** {{wellbeing_programme}}, {{pastoral_care}}, {{safeguarding_strength}}, {{student_support}}
+
+• **Leadership Development:** {{student_leadership}}, {{leadership_programme}}, {{service_learning}}, {{prefect_system}}
+
+• **21st-Century Skills:** {{critical_thinking}}, {{creativity}}, {{collaboration}}, {{communication}}, {{digital_literacy}}
+
+• **Global Citizenship:** {{international_programme}}, {{exchange_programme}}, {{community_service}}, {{global_partnerships}}, {{intercultural_learning}}
+
+• **Institutional Identity:** {{institutional_identity}}
+
+Together, these qualities demonstrate an educational culture that aligns closely with the Framework of Academic Excellence and illustrates the distinctive identity your leadership has cultivated within the school community.
+
+━━━━━━━━━━━━━━━━━━━━
+
+ Global Academic Forum is pleased to extend an invitation for **{{school_name}}** to participate in an **Institutional Profile**, comprising a professionally curated and verified profile listing together on Global Academic Forum's website with a **Digital Campus Certification**.
+
+Campus Certification provides an independent institutional perspective—revealing the alignment between the educational experience your leadership intends to create and the experience students, parents and staff encounter each day.
+
+━━━━━━━━━━━━━━━━━━━━
+
+The Institutional Profile considers evidence across the Framework for Academic Excellence, including:
+
+• Innovative Education Practices
+
+• Excellence in Learning and Teaching
+
+• Student Well-being & Safeguarding
+
+• Leadership Development
+
+• 21st-Century Skills
+
+• Global Citizenship
+
+• Communication of Vision & Values
+
+It also acknowledges recognised strengths including **{{inspection_rating}}**, **{{accreditation}}**, **{{award}}**, **{{recognition}}**, together with the reputation **{{school_name}}** has established through **{{parent_reputation}}**, **{{community_reputation}}**, **{{graduate_outcomes}}**, **{{alumni_success}}**, and **{{public_perception}}**.
+
+━━━━━━━━━━━━━━━━━━━━
+
+This engagement recognises the qualities that distinguish **{{school_name}}** beyond conventional rankings, providing an independent institutional perspective that helps answer the questions every school leader eventually asks:
+
+Are we improving?
+
+Are we living our values?
+
+Does our culture truly reflect our mission?
+
+Are parents experiencing what we believe we are delivering?
+
+What will our school be remembered for?
+
+━━━━━━━━━━━━━━━━━━━━
+
+**BECOME PART OF THE GLOBAL COMMUNITY.**
+
+**Invest in Your Legacy.**
+
+━━━━━━━━━━━━━━━━━━━━
+
+We appreciate that **{{school_name}}** will carefully consider this invitation from the Global Academic Forum.
+
+Should this opportunity align with your institutional aspirations, we would be delighted to receive your acknowledgement of interest and begin the first step of a meaningful journey together with **{{school_name}}**.
+
+-----------------------
+
+
+
+GET 12 MORE SCHOOLS 
+
+ PLEASE SURFACE 1 SCHOOL FROM  that has the best PMF and would PROFIT with tangible ROI from Global Academic Forum framework with a campus certifcation - that we can serve at this stage
+PLEASE SURFACE 1 SCHOOL FROM  that has the best PMF and would PROFIT with tangible ROI from Global Academic Forum framework with a campus certifcation - that we can serve at this stage
+PLEASE SURFACE 1 SCHOOL FROM  that has the best PMF and would PROFIT with tangible ROI from Global Academic Forum framework with a campus certifcation - that we can serve at this stage 
+PLEASE SURFACE 1 SCHOOL FROM  that has the best PMF and would PROFIT with tangible ROI from Global Academic Forum framework with a campus certifcation - that we can serve at this stage
+PLEASE SURFACE 1 SCHOOL FROM  that has the best PMF and would PROFIT with tangible ROI from Global Academic Forum framework with a campus certifcation - that we can serve at this stage
+PLEASE SURFACE 1 SCHOOL FROM  that has the best PMF and would PROFIT with tangible ROI from Global Academic Forum framework with a campus certifcation - that we can serve at this stage 
+PLEASE SURFACE 1 SCHOOL FROM  that has the best PMF and would PROFIT with tangible ROI from Global Academic Forum framework with a campus certifcation - that we can serve at this stage
+PLEASE SURFACE 1 SCHOOL FROM  that has the best PMF and would PROFIT with tangible ROI from Global Academic Forum framework with a campus certifcation - that we can serve at this stage
+PLEASE SURFACE 1 SCHOOL FROM  that has the best PMF and would PROFIT with tangible ROI from Global Academic Forum framework with a campus certifcation - that we can serve at this stage
+PLEASE SURFACE 1 SCHOOL FROM  that has the best PMF and would PROFIT with tangible ROI from Global Academic Forum framework with a campus certifcation - that we can serve at this stage
+
+MUST BE PERFECT AVATAR FIT MUST HAVE A WEBSITE WITH NO ACCREDITATIONS, DEVELOPING WEBSITE.
+
+GOLDEN SCHOOL IS THE SCHOOLS WE HAVE TESTIMONIALS OF. THE SCHOOL SURFACED NEEDS TO CONVER THE GOLDEN SCHOOL AS A STANDARD 
+
+ICP - INSIDER SCHOOL 
+School Avatar  - Insider
+Core point - believers in framework of academic excellence - seeing students everyday, seeing our atmosphere - need third-party for strengths and weaknesses.
+GAF outreach message: "Every school stands for something. However, you are everyday immersed in your atmosphere and students and campus. A third-party allows for a point of view. Global Academic Forum believes #EverySchoolStandsForSomething and [school's name] standing is worth taking notice. Framework of academic excellence is how the Forum offers a bastioning perspective. Welcome. Let's step back on an institutional profiling experience. #InvestInYourLegacy." 
+Victim -  According to a landmark UNESCO School Climate Report, positive school environments are directly correlated with higher student attentiveness and a significant boost in standardized test scores. an invisible gap often exists between what administrators see daily and what students actually experience. such as intense academic anxiety, social isolation, or peer exclusion—can severely undermine student well-being and long-term academic success.   
+Product Market Fit - The one leadership believes it has. The one students, parents and teachers actually experience. Campus Certification becomes an independent institutional perspective. a lens you cannot access from inside the institution. Campus Certification reveals who they already are. School leaders regularly ask - Are we improving? Are we living our values? Does our culture match our mission? Are parents experiencing what we believe we're delivering? What will our school be remembered for? Campus Certification answers those questions.
+
+Golden School  
+Is from a country & state like Kerala that has:
+- high consumer buying power and an intense appetite for education-related spending.
+- 95.3% state literacy rate 
+- a soaring school Gross Enrolment Ratio (GER) of 94.1%
+Has leadership 
+Is well spoken, cultured 
+Has an active students community
+Is a Public School or Junior College or Group schools - institutional schools - traditional schools
+Has a Website that is Developing or has No accreditation or Features devoted / dedicated purpose or Features core traits core excellence about their school
+Has Sweet Spot BUDGET i.e. Has accounting frameworks like CBSE affiliation bylaws, Has Massive Campus Sizes, Has a massive student body, Is large, established trust-backed or society-run private schools with high student enrollment volumes and robust fee collections can afford premium third-party campus certifications, Backed by huge trusts such as Carmelites of Mary Immaculate (CMI), Archbishop Attipetty Foundation, Church-backed society, diocesan backing, Order of the Imitation of Christ (Bethany Ashram), 
+English-medium education	
+
+BUG - THE EMAIL SENT TO A SRI LANKAN WHICH WAS HIGHLY PROSPECTIVE INCLUDED THE WORDS - NOT DISCLOSED. 
+LIKE STUDENT COUNT IS NOT DISCLOSED. THIS WAS EXPLICITLY STATED IN THE EMAIL.
+PERHAPS INTRODUCE COMMAND IN FILLING FILED - EXPLICITYLY LEAVE OUT FIELD THAT IS NOT HARDLY AND CLEARLY INPUTTED. PLEASE LEAVE OUT. 
+
+fill with caution. if not directly revleant and input unavailable, do not fill. EXPLICITYLY LEAVE OUT FIELD THAT IS NOT HARd AND DOES NOT HAVE CLEAR INPUT.
+TIER 1 Field Variable School Name {{school_name}} Principal Name {{principal_name}} Principal Title {{principal_title}} City {{city}} Country {{country}} School Type {{school_type}} Curriculum {{curriculum}} Year Established {{year_established}} 
+TIER 2 — Institutional Snapshot Used in WHY STAND FOR {{school_name}} Field Variable Student Population {{student_population}} Parent Community {{parent_community}} Teacher Count {{teacher_count}} Campus Size {{campus_size}} Age Range {{age_range}} Boarding / Day {{school_model}} 
+TIER 3 — Framework Alignment (Most Important) These are not facts. These are the evidence that explains WHY GAF NOTICED THEM Variables for campus certification {{innovation_example}} {{technology_integration}} {{innovation_programme}} {{future_learning}} {{teaching_strength}} {{academic_programme}} {{curriculum_strength}} {{pedagogical_strength}} {{wellbeing_programme}} {{pastoral_care}} {{safeguarding_strength}} {{student_support}} {{student_leadership}} {{leadership_programme}} {{service_learning}} {{prefect_system}} {{critical_thinking}} {{creativity}} {{collaboration}} {{communication}} {{digital_literacy}} {{international_programme}} {{exchange_programme}} {{community_service}} {{global_partnerships}} {{intercultural_learning}} {{mission}} {{vision}} {{core_values}} {{school_ethos}} {{institutional_identity}} {{inspection_rating}} {{accreditation}} {{award}} {{ranking}} {{recognition}} {{parent_reputation}} {{community_reputation}} {{graduate_outcomes}} {{alumni_success}} {{public_perception}} WHY GAF NOTICED THEM {{framework_alignment}} {{gaf_observation}} {{institutional_alignment}} {{noticed_strength}} {{profile_reason}} {{school_name}} demonstrates a clear commitment to {{framework_alignment}} through {{evidence_1}}, {{evidence_2}} and {{evidence_3}}. Together these reflect an educational culture that aligns closely with the Framework of Academic Excellence and illustrates the distinctive qualities your leadership has cultivated within the school community.
+
+| Field                               | Default fallback                    |
+| ----------------------------------- | ----------------------------------- |
+| `{{school_name}}`                   | Insider School                      |
+| `{{principal_title}}`               | Dear                                |
+| `{{principal_name}}`                | `{{school_name}}`                   |
+| `{{parent_community}}`              | more than 1,000 families            |
+| `{{personalised_school_paragraph}}` | Generic recognition paragraph above |
+
+1:30 pm 
+
+Very tired.
+Sent emails to 5 school.
+Looking forward to how this is shaping up to be a scalable model. 
