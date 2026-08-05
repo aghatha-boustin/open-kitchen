@@ -404,7 +404,7 @@ MUST BE DONE BY 11 AM IST.
 
 EMAIL 
 
-COMMAND - INJECT. RULE. Sanitize & Apply Fallback for missing field. Render. Locked Email.
+COMMAND - INJECT. RULE. Sanitize & Apply Fallback for missing field. Render. Use Signals. WILL SELL. Locked Email.
 
 FIELDS TIER 1 Field Variable School Name {{school_name}} Principal Name {{principal_name}} Principal Title {{principal_title}} City {{city}} Country {{country}} School Type {{school_type}} Curriculum {{curriculum}} Year Established {{year_established}} TIER 2 — Institutional Snapshot Used in WHY STAND FOR {{school_name}} Field Variable Student Population {{student_population}} Parent Community {{parent_community}} Teacher Count {{teacher_count}} Campus Size {{campus_size}} Age Range {{age_range}} Boarding / Day {{school_model}} TIER 3 — Framework Alignment (Most Important) These are not facts. These are the evidence that explains WHY GAF NOTICED THEM Variables for campus certification {{innovation_example}} {{technology_integration}} {{innovation_programme}} {{future_learning}} {{teaching_strength}} {{academic_programme}} {{curriculum_strength}} {{pedagogical_strength}} {{wellbeing_programme}} {{pastoral_care}} {{safeguarding_strength}} {{student_support}} {{student_leadership}} {{leadership_programme}} {{service_learning}} {{prefect_system}} {{critical_thinking}} {{creativity}} {{collaboration}} {{communication}} {{digital_literacy}} {{international_programme}} {{exchange_programme}} {{community_service}} {{global_partnerships}} {{intercultural_learning}} {{mission}} {{vision}} {{core_values}} {{school_ethos}} {{institutional_identity}} {{inspection_rating}} {{accreditation}} {{award}} {{ranking}} {{recognition}} {{parent_reputation}} {{community_reputation}} {{graduate_outcomes}} {{alumni_success}} {{public_perception}} WHY GAF NOTICED THEM {{framework_alignment}} {{gaf_observation}} {{institutional_alignment}} {{noticed_strength}} {{profile_reason}} {{school_name}} demonstrates a clear commitment to {{framework_alignment}} through {{evidence_1}}, {{evidence_2}} and {{evidence_3}}. Together these reflect an educational culture that aligns closely with the Framework of Academic Excellence and illustrates the distinctive qualities your leadership has cultivated within the school community.
 
@@ -611,5 +611,6 @@ For me how I am profitable is how I decide next steps.
 
 I am having thoughts like - The Insider School is the perfect email.
 THE PEROSNALIZATION IS OVERCOMPLICATING. 
+
 
 
